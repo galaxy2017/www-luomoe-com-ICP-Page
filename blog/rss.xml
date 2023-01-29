@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>冰柠萌萌的测试站 Blog</title>
+        <link>https://www.luomoe.com/blog</link>
+        <description>冰柠萌萌的测试站 Blog</description>
+        <lastBuildDate>Mon, 09 Jan 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[欢迎]]></title>
+            <link>https://www.luomoe.com/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[内容仅仅用于测试，记录，展示，不做其他用途。为个人网站。]]></description>
+            <content:encoded><![CDATA[<p>内容仅仅用于测试，记录，展示，不做其他用途。为个人网站。</p><p>当您通过某网站的前端代码访问至本站。很明显，那个是站长本人参与合作开发的网站。希望您能喜欢。</p><p>同时，本站为个人备案网站，基于国家法律法规，仅作个人使用。</p><p><img loading="lazy" src="https://img.cdn.luomoe.com/2022/02/qrcode_for_gh_2988c64a4cf1_258.jpg" alt="img" class="img_ev3q"></p><p><img loading="lazy" src="https://img.cdn.luomoe.com/2021/03/20210320082845557.jpg" alt="img" class="img_ev3q">
+<img loading="lazy" src="https://img.cdn.luomoe.com/2021/03/20210320082901292.jpg" alt="img" class="img_ev3q"></p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="我在考研">我在考研！！！！！<a class="hash-link" href="#我在考研" title="标题的直接链接">​</a></h2><p>——2021年1月1日</p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="一志愿拟录取">一志愿拟录取<a class="hash-link" href="#一志愿拟录取" title="标题的直接链接">​</a></h2><p>——2022年3月</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
